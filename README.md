@@ -4,11 +4,12 @@
 Bike Buddy is a transformative transportation solution designed specifically for college students, emphasizing sustainability, affordability, and user-centricity. By leveraging bike pooling, the platform provides a user-friendly mobile application that allows students to easily input their pickup and drop-off locations, explore ride options, and connect with fellow riders. The system is driven by sophisticated algorithms that optimize routes and reduce travel expenses while prioritizing safety and community trust.
 
 ### Features
-*** Core Functionality:
+**Core Functionality:**
   * Ride Sharing: Facilitates ridesharing among students by connecting passengers with riders travelling along similar routes.
   * User-Friendly Interface: Simple and intuitive design for easy ride requests and offers.
   * Route Optimization: Advanced matching algorithms to optimize travel time and reduce expenses.
-*** Security and Trust:
+
+**Security and Trust:**
   * Feedback and Rating System: Ensures accountability through rider and passenger feedback.
   * Batch-Division-Branch Matching: Suggests rides based on students' academic batch, division, and branch for familiar connections.
   * Gender-Based Prioritization: Allows optional gender-based ride matching to enhance comfort and security.
