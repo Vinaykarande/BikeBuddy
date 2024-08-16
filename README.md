@@ -37,17 +37,11 @@ The system design of Bike Buddy focuses on creating a user-friendly platform for
 * Security and Privacy: Enhances trust through recommendations based on academic relationships and optional gender-based prioritization.
 
 ### Screenshots
-![Screenshot_20240130-181758_Mega](https://github.com/user-attachments/assets/2b9a57b2-bb2b-4aa2-8699-ea21e365478f)
-![bb1](https://github.com/user-attachments/assets/c6651e41-aa3f-4b22-b986-7b918f6ea08e)
-![bb2](https://github.com/user-attachments/assets/ee107d32-89fc-4dcd-adc8-0ac37b615cd5)
-![Screenshot_20240816_093812_BuddyRides](https://github.com/user-attachments/assets/155c1cfc-8501-424f-abf5-20d1032f0e2a)
-![Screenshot_20240816_093820_BuddyRides](https://github.com/user-attachments/assets/4f7f7e9d-6164-465f-b577-9db4347b6097)
-![bb4](https://github.com/user-attachments/assets/cf320d80-f7f2-42bc-98b5-bfe00bdb56cd)
-![bb5](https://github.com/user-attachments/assets/6bdd4948-3f48-4f1e-889f-d7b6db4281aa)
-![WhatsApp Image 2024-08-16 at 9 40 26 AM](https://github.com/user-attachments/assets/2b4b1d2e-461f-4020-9e4f-920e47ea1b6e)
-
-
-
-
-
-
+![Screenshot_20240130-181758_Mega](https://github.com/user-attachments/assets/2a3f198b-4ae7-4261-9340-fb5cbb8fe33d)
+![bb1](https://github.com/user-attachments/assets/f08f3b47-f83e-4f71-963d-15e347e2be22)
+![bb2](https://github.com/user-attachments/assets/869d5c55-e915-423d-a690-fae8a9215cf9)
+![Screenshot_20240816_093812_BuddyRides](https://github.com/user-attachments/assets/21e0cdc1-d8eb-40af-a58c-3e5a477fe1be)
+![Screenshot_20240816_093820_BuddyRides](https://github.com/user-attachments/assets/34d9fad0-2dd2-44af-b80d-f3ae619c328d)
+![bb4](https://github.com/user-attachments/assets/9a33e340-b89f-4e0f-84e0-a68d78451168)
+![bb5](https://github.com/user-attachments/assets/505f4850-2465-4d50-8adf-63b225a39e28)
+![WhatsApp Image 2024-08-16 at 9 40 26 AM](https://github.com/user-attachments/assets/961d066b-341c-40d4-bcbb-72e3dc22f445)
