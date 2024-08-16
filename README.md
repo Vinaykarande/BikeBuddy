@@ -39,10 +39,17 @@ The system design of Bike Buddy focuses on creating a user-friendly platform for
 
 ### Screenshots
 ![Screenshot_20240130-181758_Mega](https://github.com/user-attachments/assets/2a3f198b-4ae7-4261-9340-fb5cbb8fe33d)
+
 ![bb1](https://github.com/user-attachments/assets/f08f3b47-f83e-4f71-963d-15e347e2be22)
+
 ![bb2](https://github.com/user-attachments/assets/869d5c55-e915-423d-a690-fae8a9215cf9)
+
 ![Screenshot_20240816_093812_BuddyRides](https://github.com/user-attachments/assets/21e0cdc1-d8eb-40af-a58c-3e5a477fe1be)
+
 ![Screenshot_20240816_093820_BuddyRides](https://github.com/user-attachments/assets/34d9fad0-2dd2-44af-b80d-f3ae619c328d)
+
 ![bb4](https://github.com/user-attachments/assets/9a33e340-b89f-4e0f-84e0-a68d78451168)
+
 ![bb5](https://github.com/user-attachments/assets/505f4850-2465-4d50-8adf-63b225a39e28)
+
 ![WhatsApp Image 2024-08-16 at 9 40 26 AM](https://github.com/user-attachments/assets/961d066b-341c-40d4-bcbb-72e3dc22f445)
